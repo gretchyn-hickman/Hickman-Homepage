@@ -1,15 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import TheNav from './nav.js';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      
-      
+
+  
+      <TheNav />
 
       
-    </div>
   );
 }
 
-export default App;
