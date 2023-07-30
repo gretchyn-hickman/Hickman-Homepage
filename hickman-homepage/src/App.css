@@ -5,7 +5,11 @@
 .color-one {
   background-color: #b2f1b5;
 }
-
+.Profile {
+  max-width: 20%;
+  height: auto;
+  border-radius: 10px;
+}
 
 .App-header {
   background-color: #282c34;
