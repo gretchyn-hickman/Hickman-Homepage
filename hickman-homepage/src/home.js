@@ -11,7 +11,6 @@ export default function Home() {
             <div className='para'>
                 <p>Hi! My name is Gretchyn Hickman. I am a 20 year old full-stack developer. I might be young but I am determined and creative when it comes to my projects. </p>
             </div>
-            
         </div>
 
     )
