@@ -5,10 +5,16 @@
 .color-one {
   background-color: #b2f1b5;
 }
+.title{
+  font-size: 420%;
+}
 .Profile {
   max-width: 20%;
   height: auto;
   border-radius: 10px;
+}
+.para {
+  margin-top: 2%;
 }
 
 .App-header {
